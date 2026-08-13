@@ -1,0 +1,109 @@
+{
+  "audio": [
+    {
+      "id": "1",
+      "title": "أغنية الصباح الباكر",
+      "artist": "Turrini Studio",
+      "duration": "3:45",
+      "cover": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "genre": "هادئ",
+      "plays": "125K",
+      "likes": "8.2K",
+      "date": "2024-01-15",
+      "tags": [
+        "هادئ",
+        "صباحي"
+      ],
+      "desc": "مقطوعة هادئة لبداية يومك.",
+      "lyrics": "في صباحٍ جديدٍ يأتي\nمع نورٍ يملأ الدُّنيا"
+    },
+    {
+      "id": "2",
+      "title": "لحن الليل",
+      "artist": "Studio Beats",
+      "duration": "4:20",
+      "cover": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "plays": "89K",
+      "likes": "5.1K",
+      "date": "2024-01-10",
+      "genre": "ليلي",
+      "desc": "لحن ليلي ساحر.",
+      "tags": [
+        "ليلي",
+        "رومانسي"
+      ],
+      "lyrics": "تحت ضوءِ القمرِ الساطع\nأجلسُ وحدي أتأملُ"
+    },
+    {
+      "id": "3",
+      "title": "تأمل",
+      "artist": "Turrinimusic",
+      "duration": "3:45",
+      "cover": "ل",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "genre": "هادئ",
+      "plays": "12",
+      "likes": "34",
+      "date": "2026-08-13",
+      "tags": [
+        "غففغ"
+      ],
+      "desc": "تلراققلف",
+      "lyrics": "هفاابال"
+    }
+  ],
+  "videos": [
+    {
+      "id": "2",
+      "title": "درس العود للمبتدئين",
+      "cat": "lessons",
+      "thumb": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400",
+      "duration": "0:12",
+      "quality": "1080p",
+      "views": "89K",
+      "date": "2024-01-10",
+      "desc": "تعلم العود من الصفر",
+      "videoSrc": "https://www.w3schools.com/html/movie.mp4"
+    }
+  ],
+  "shorts": [
+    {
+      "title": "مقطع قصير: إيقاع سريع ⚡",
+      "thumb": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300",
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "views": "1.2M"
+    },
+    {
+      "title": "لقطة من الاستوديو 🎙️",
+      "thumb": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=300",
+      "video": "https://www.w3schools.com/html/movie.mp4",
+      "views": "890K"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "name": "موسيقى جديدة",
+      "icon": "fa-music",
+      "color": "#dc2626",
+      "type": "video",
+      "title": "أحدث إصدار 🎵",
+      "desc": "استمع لأحدث مقطوعة",
+      "media": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400"
+    },
+    {
+      "id": "2",
+      "name": "درس اليوم",
+      "icon": "fa-graduation-cap",
+      "color": "#22c55e",
+      "type": "image",
+      "title": "درس العود 🎸",
+      "desc": "تعلم تقنية جديدة",
+      "media": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
+      "poster": ""
+    }
+  ]
+}
