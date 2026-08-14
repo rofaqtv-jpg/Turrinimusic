@@ -16,7 +16,9 @@
         "صباحي"
       ],
       "desc": "مقطوعة هادئة لبداية يومك.",
-      "lyrics": "في صباحٍ جديدٍ يأتي\nمع نورٍ يملأ الدُّنيا"
+      "lyrics": "في صباحٍ جديدٍ يأتي\nمع نورٍ يملأ الدُّنيا",
+      "bloggerPostId": "8365665895442309738",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_955.html"
     },
     {
       "id": "2",
@@ -34,7 +36,9 @@
         "ليلي",
         "رومانسي"
       ],
-      "lyrics": "تحت ضوءِ القمرِ الساطع\nأجلسُ وحدي أتأملُ"
+      "lyrics": "تحت ضوءِ القمرِ الساطع\nأجلسُ وحدي أتأملُ",
+      "bloggerPostId": "587016491379878440",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_513.html"
     },
     {
       "id": "3",
@@ -51,7 +55,28 @@
         "غففغ"
       ],
       "desc": "تلراققلف",
-      "lyrics": "هفاابال"
+      "lyrics": "هفاابال",
+      "bloggerPostId": "5748464256197068628",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_389.html"
+    },
+    {
+      "id": "4",
+      "title": "Jhgf",
+      "artist": "Urrr",
+      "duration": "5",
+      "cover": "gfd.com",
+      "src": "fgjhg.mp3",
+      "genre": "Ghhg",
+      "plays": "56",
+      "likes": "56",
+      "date": "2026-08-14",
+      "tags": [
+        "Iuy"
+      ],
+      "desc": "",
+      "lyrics": "",
+      "bloggerPostId": "1510629045136798736",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/jhgf.html"
     }
   ],
   "videos": [
@@ -65,7 +90,9 @@
       "views": "89K",
       "date": "2024-01-10",
       "desc": "تعلم العود من الصفر",
-      "videoSrc": "https://www.w3schools.com/html/movie.mp4"
+      "videoSrc": "https://www.w3schools.com/html/movie.mp4",
+      "bloggerPostId": "6349141563043758976",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_572.html"
     }
   ],
   "shorts": [
@@ -73,13 +100,17 @@
       "title": "مقطع قصير: إيقاع سريع ⚡",
       "thumb": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300",
       "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "views": "1.2M"
+      "views": "1.2M",
+      "bloggerPostId": "6657782491424091646",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_831.html"
     },
     {
       "title": "لقطة من الاستوديو 🎙️",
       "thumb": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=300",
       "video": "https://www.w3schools.com/html/movie.mp4",
-      "views": "890K"
+      "views": "890K",
+      "bloggerPostId": "4519857233687148464",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_785.html"
     }
   ],
   "stories": [
@@ -92,7 +123,9 @@
       "title": "أحدث إصدار 🎵",
       "desc": "استمع لأحدث مقطوعة",
       "media": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "poster": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400"
+      "poster": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400",
+      "bloggerPostId": "5211274003173878203",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_375.html"
     },
     {
       "id": "2",
@@ -103,7 +136,9 @@
       "title": "درس العود 🎸",
       "desc": "تعلم تقنية جديدة",
       "media": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
-      "poster": ""
+      "poster": "",
+      "bloggerPostId": "1290333387579079588",
+      "bloggerUrl": "https://turrinimusicofficial.blogspot.com/2026/08/blog-post_774.html"
     }
   ]
 }
